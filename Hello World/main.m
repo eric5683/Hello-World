@@ -13,8 +13,47 @@ int main(int argc, const char * argv[])
 
     @autoreleasepool {
         
-        // insert code here...
-        NSLog(@"Hello, World!");
+        //int age = 30;
+        
+        //double temp = 78.6;
+        
+        //char letter = 'j';
+        
+        NSString *name = @"john";
+        
+        //* means this is an object this is a pointer
+        
+        
+        
+        NSLog(@"The value is %@", name);
+        
+        
+        //NSLog(@"your letter is %c", letter);
+        
+        
+        
+        
+        
+        
+        
+        //storing this value of 30 in the int variable called age :)
+        
+        //NSLog(@"What is your age?");
+        //scanf("%i", &age);
+        
+        
+        
+        
+        //NSLog(@"your age is %i", age);
+        
+        //%f %c %double
+        
+        
+        
+        
+        
+        
+        
         
     }
     return 0;
